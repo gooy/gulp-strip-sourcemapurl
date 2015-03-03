@@ -1,0 +1,10 @@
+docs/
+test/
+task/
+.idea/
+node_modules/
+*.iml
+.travis.yml
+AUTHORS
+CHANGELOG
+gulpfile.js

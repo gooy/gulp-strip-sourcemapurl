@@ -8,14 +8,11 @@
   "description": "Strip the sourceMappingURL comment from a file",
   "author": "Aaike Van Roekeghem",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git@bitbucket.org:aaike/gulp-strip-sourcemapurl.git"
-  },
   "main": "gulp-strip-sourcemapurl.js",
   "dependencies": {
     "gulp": "~3.8",
-    "through2": "~0.6"
+    "through2": "~0.6",
+    "trim": "0.0.1"
   },
   "devDependencies": {
     
